@@ -1,7 +1,8 @@
 # Weather-Forecasting
 # README #
 
-This repository contains code related the AI Team project for Team #3
+This repository contains code related to implement Markov blanket and Scalable and Accurate Online Aproach Algotithm to get the most relevant features and was evaluated using different classification model.
+This was done as a project for Artificial Intelligence course in Fall 2017.
 
 ### What is this repository for? ###
 
